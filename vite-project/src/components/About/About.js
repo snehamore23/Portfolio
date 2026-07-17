@@ -23,12 +23,12 @@ function About() {
   <strong> Full Stack MERN Developer</strong> who enjoys building modern,
   responsive, and user-friendly web applications. I specialize in
   <strong> MongoDB, Express.js, React.js, and Node.js</strong>, creating
-  scalable applications with clean and efficient code.
+  scalable applications with clean and efficient code. 
   <br />
   <br />
   I also have experience with <strong>Java, JavaScript, SQL, Git, GitHub</strong>,
   and developing RESTful APIs. I enjoy solving real-world problems, learning
-  new technologies, and continuously improving my development skills.
+  new technologies,enjoying the designs and continuously improving my development skills.
   <br />
   <br />
   Currently, I am seeking opportunities to contribute to innovative projects,

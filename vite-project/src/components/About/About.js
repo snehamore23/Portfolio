@@ -19,14 +19,21 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged.
-          </div>
+  Hello! My name is <strong>Sneha More</strong>, and I am a passionate
+  <strong> Full Stack MERN Developer</strong> who enjoys building modern,
+  responsive, and user-friendly web applications. I specialize in
+  <strong> MongoDB, Express.js, React.js, and Node.js</strong>, creating
+  scalable applications with clean and efficient code.
+  <br />
+  <br />
+  I also have experience with <strong>Java, JavaScript, SQL, Git, GitHub</strong>,
+  and developing RESTful APIs. I enjoy solving real-world problems, learning
+  new technologies, and continuously improving my development skills.
+  <br />
+  <br />
+  Currently, I am seeking opportunities to contribute to innovative projects,
+  grow as a software developer, and build impactful digital solutions.
+</div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.
           </div>

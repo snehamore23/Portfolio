@@ -26,7 +26,7 @@ function Hero() {
             <h1>Hi, I'm Sneha More</h1>
             <h5>Full Stack MERN Developer</h5>
             <p>
-              I design and code beautifully simple things, and I love what I do.
+              I design and code beautifully simple things, and I love what I do....
             </p>
           </HeroLeft>
           <HeroRight>
